@@ -1,0 +1,27 @@
+body{
+    background-image: url(qatar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#contenedor{
+    width: 90%;
+    margin: 0 5% 0 5%;
+    display: flex;
+    align-content: space-around;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: center;
+    align-items: center;
+}
+.reglasprode{
+    background-color: ghostwhite;
+}
